@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/swhitfie/Desktop/projects/training/ll-applied-ml-foundations/applied-machine-learning-foundations-3856104/mlruns/0/fb24bb50898445dab6f82ddba5275636/artifacts
+end_time: 1790018039123
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fb24bb50898445dab6f82ddba5275636
+run_name: melodic-robin-605
+run_uuid: fb24bb50898445dab6f82ddba5275636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790018036885
+status: 3
+tags: []
+user_id: swhitfie

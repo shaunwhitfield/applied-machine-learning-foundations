@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/swhitfie/Desktop/projects/training/ll-applied-ml-foundations/applied-machine-learning-foundations-3856104/mlruns/0/7486b37d3118496cadea4974bd9c929d/artifacts
+end_time: 1790018591235
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7486b37d3118496cadea4974bd9c929d
+run_name: adorable-rat-515
+run_uuid: 7486b37d3118496cadea4974bd9c929d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1790018589292
+status: 3
+tags: []
+user_id: swhitfie
